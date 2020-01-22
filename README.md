@@ -5,6 +5,9 @@ This repository contains documents pertaining to files utilized in the publicati
 Files include:
 
 Genome assembly - SpinachV3pseudo-2018-6-26-formated-ordered-final.fasta.gz
+
 Genome annotation - Spol_v3_Spinacia_oleracea-ordered-final.gff
+
 CDS sequence - Spol_v3_Spinacia_oleracea-ordered-final.cds.gz
+
 Protein sequence - Spol_v3_Spinacia_oleracea-ordered-final.pep.gz
