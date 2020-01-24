@@ -1,6 +1,6 @@
 # Spinach_Peffusa
 
-This repository contains documents pertaining to files utilized in the publication **"Transcriptional analyses of resistant and susceptible spinach cultivars in response to the downy mildew pathogen, *Peronospora effusa*"** by Kandel et al. 
+This repository contains documents pertaining to files utilized in the publication **"Transcriptional analyses of differential cultivars during resistant and susceptible interactions with *Peronospora effusa*, the causal agent of spinach downy mildew"** by Kandel et al. 
 
 Files include:
 
