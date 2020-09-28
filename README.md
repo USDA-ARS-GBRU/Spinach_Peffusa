@@ -11,3 +11,5 @@ Genome annotation - Spol_v3_Spinacia_oleracea-ordered-final.gff
 CDS sequence - Spol_v3_Spinacia_oleracea-ordered-final.cds.gz
 
 Protein sequence - Spol_v3_Spinacia_oleracea-ordered-final.pep.gz
+
+Illumina assembly (Spolv2) - Spinacia_oleracea.scafSeq.fa.gz
